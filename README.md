@@ -37,7 +37,7 @@ It aims to help businesses make data-driven decisions by understanding which pro
 
 3. **Visualization**
    - Created bar charts, line plots, and pie charts for better insight communication  
-   - Built an interactive Power BI dashboard
+   - Built an interactive Tableau dashboard
 
 
 ##  Visualization
