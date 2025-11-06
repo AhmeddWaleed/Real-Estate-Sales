@@ -17,7 +17,7 @@ It aims to help businesses make data-driven decisions by understanding which pro
 
 - **Source**: [DATA.GOV – Real Estate Sales 2001-2023 GL Dataset](https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
 
-## **Tools & Technologies Used**
+## **Tools Used**
 
 - **SQL**
 - **Tableau**: Dashboard and data visualization  
