@@ -1,7 +1,7 @@
 # Real-Estate-Sales (MySQL & Tableau)
 
 This project analyzes real estate data to uncover insights about property prices, sales trends, and market performance.  
-Using SQL, I cleaned, transformed, and queried the dataset to answer key business questions
+Using SQL, I cleaned, transformed, and queried the dataset to answer key business questions.
 It aims to help businesses make data-driven decisions by understanding which property type, residential type and regions drive the most sales.
 
 ## **Project Objective**
